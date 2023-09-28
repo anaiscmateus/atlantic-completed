@@ -321,8 +321,4 @@ i , img {
     .right {
         flex-basis: 100%;
     }
-
-    .top .right .side-article img {
-        display: inline;
-    }
 }
