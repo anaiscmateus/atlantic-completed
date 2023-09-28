@@ -13,6 +13,7 @@ html {
 
 i , img {
     cursor: pointer;
+    object-fit: cover;
 }
 
 /* LAYOUT */
