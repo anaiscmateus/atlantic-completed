@@ -321,4 +321,8 @@ i , img {
     .right {
         flex-basis: 100%;
     }
+
+    .top .right .side-article img {
+        text-align: center;
+    }
 }
